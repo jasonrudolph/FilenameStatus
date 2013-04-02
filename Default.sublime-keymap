@@ -1,7 +1,0 @@
-[
-    {
-        "keys": ["super+`"],
-        "command": "filename_status",
-        "context": [{"key": "setting.command_mode"}]
-    }
-]
